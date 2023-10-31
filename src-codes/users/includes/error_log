@@ -1,0 +1,28 @@
+[27-Oct-2023 15:54:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home1/sdmceghv/sdmcetqwertyio.com/quiz101/users/includes/sidebar.php:46
+Stack trace:
+#0 {main}
+  thrown in /home1/sdmceghv/sdmcetqwertyio.com/quiz101/users/includes/sidebar.php on line 46
+[27-Oct-2023 15:54:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home1/sdmceghv/sdmcetqwertyio.com/quiz101/users/includes/sidebar.php:46
+Stack trace:
+#0 {main}
+  thrown in /home1/sdmceghv/sdmcetqwertyio.com/quiz101/users/includes/sidebar.php on line 46
+[27-Oct-2023 15:54:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home1/sdmceghv/sdmcetqwertyio.com/quiz101/users/includes/sidebar.php:46
+Stack trace:
+#0 {main}
+  thrown in /home1/sdmceghv/sdmcetqwertyio.com/quiz101/users/includes/sidebar.php on line 46
+[27-Oct-2023 15:57:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home1/sdmceghv/sdmcetqwertyio.com/quiz101/users/includes/sidebar.php:46
+Stack trace:
+#0 {main}
+  thrown in /home1/sdmceghv/sdmcetqwertyio.com/quiz101/users/includes/sidebar.php on line 46
+[27-Oct-2023 15:57:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home1/sdmceghv/sdmcetqwertyio.com/quiz101/users/includes/sidebar.php:46
+Stack trace:
+#0 {main}
+  thrown in /home1/sdmceghv/sdmcetqwertyio.com/quiz101/users/includes/sidebar.php on line 46
+[27-Oct-2023 15:58:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home1/sdmceghv/sdmcetqwertyio.com/quiz101/users/includes/sidebar.php:46
+Stack trace:
+#0 {main}
+  thrown in /home1/sdmceghv/sdmcetqwertyio.com/quiz101/users/includes/sidebar.php on line 46
+[27-Oct-2023 17:47:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home1/sdmceghv/sdmcetqwertyio.com/quiz101/users/includes/sidebar.php:46
+Stack trace:
+#0 {main}
+  thrown in /home1/sdmceghv/sdmcetqwertyio.com/quiz101/users/includes/sidebar.php on line 46

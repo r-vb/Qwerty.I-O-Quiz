@@ -1,0 +1,35 @@
+[23-Oct-2023 18:36:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/pages/ranking-exam.php:56
+Stack trace:
+#0 /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/home.php(25): include()
+#1 {main}
+  thrown in /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/pages/ranking-exam.php on line 56
+[23-Oct-2023 18:38:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/pages/ranking-exam.php:56
+Stack trace:
+#0 /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/home.php(25): include()
+#1 {main}
+  thrown in /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/pages/ranking-exam.php on line 56
+[23-Oct-2023 18:43:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/pages/ranking-exam.php:56
+Stack trace:
+#0 /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/home.php(25): include()
+#1 {main}
+  thrown in /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/pages/ranking-exam.php on line 56
+[23-Oct-2023 18:43:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/pages/ranking-exam.php:56
+Stack trace:
+#0 /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/home.php(25): include()
+#1 {main}
+  thrown in /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/pages/ranking-exam.php on line 56
+[23-Oct-2023 18:46:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/pages/ranking-exam.php:56
+Stack trace:
+#0 /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/home.php(25): include()
+#1 {main}
+  thrown in /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/pages/ranking-exam.php on line 56
+[23-Oct-2023 18:48:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/pages/ranking-exam.php:56
+Stack trace:
+#0 /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/home.php(25): include()
+#1 {main}
+  thrown in /home1/sdmceghv/sdmcetqwertyio.com/testing/users/adminpanel/admin/pages/ranking-exam.php on line 56
+[29-Oct-2023 19:39:09 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home1/sdmceghv/sdmcetqwertyio.com/quiz-not-required/users/adminpanel/admin/pages/examinee-result.php on line 43
+[29-Oct-2023 19:39:35 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home1/sdmceghv/sdmcetqwertyio.com/quiz-not-required/users/adminpanel/admin/pages/examinee-result.php on line 43
+[29-Oct-2023 19:39:38 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home1/sdmceghv/sdmcetqwertyio.com/quiz-not-required/users/adminpanel/admin/pages/examinee-result.php on line 43
+[29-Oct-2023 19:40:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/sdmceghv/sdmcetqwertyio.com/quiz-not-required/users/adminpanel/admin/pages/examinee-result.php on line 60
+[29-Oct-2023 19:41:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/sdmceghv/sdmcetqwertyio.com/quiz-not-required/users/adminpanel/admin/pages/examinee-result.php on line 60
