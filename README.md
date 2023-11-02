@@ -12,14 +12,8 @@ The **QIO Quiz System** repository is your go-to destination for creating, manag
 
 - **Scalable and Customizable**: Build quizzes of any complexity, from simple multiple-choice questions to complex assessments, with the ability to customize layouts and styles.
 
-- **Engaging Multiplayer Mode**: Challenge friends, family, or colleagues in real-time multiplayer quiz battles for hours of entertainment.
-
 - **Quiz Analytics**: Gain insights into quiz performance with detailed analytics, helping you improve your quizzes over time.
 
 - **Responsive Design**: A mobile-friendly design that ensures quizzes can be enjoyed on any device, anytime, anywhere.
-
-- **Open Source**: The repository is open source, allowing for community contributions, improvements, and extensions.
-
-- **Documentation**: Comprehensive documentation to guide developers and users through setting up and using the QuizMaster platform.
 
 Get ready to unleash your inner quizmaster and create, share, and play quizzes like never before. Let's make learning and entertainment more exciting with **QIO Quiz System**!
